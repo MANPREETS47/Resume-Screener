@@ -1,8 +1,8 @@
-# Resume Screener API
+#Resume Screener API
 
 A production-quality backend system for AI-powered resume screening using FastAPI and LLM APIs. This project demonstrates clean architecture, SOLID principles, and industry best practices.
 
-## 📋 Objective
+##Objective
 
 Build a resume screening system that:
 - Accepts PDF resumes and job descriptions
@@ -573,3 +573,4 @@ Created as a college-level project demonstrating production-quality backend deve
  #   R e s u m e - S c r e e n e r 
  
  
+
