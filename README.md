@@ -566,7 +566,10 @@ Created as a college-level project demonstrating production-quality backend deve
 ---
 
 **Built with ❤️ following SOLID principles and clean architecture practices.**
-#   R e s u m e - S c r e e n e r  
- #   R e s u m e - S c r e e n e r  
- #   R e s u m e - S c r e e n e r  
+#   R e s u m e - S c r e e n e r 
+ 
+ #   R e s u m e - S c r e e n e r 
+ 
+ #   R e s u m e - S c r e e n e r 
+ 
  
