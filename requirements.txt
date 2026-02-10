@@ -1,0 +1,35 @@
+# Python dependencies for Resume Screener API
+
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Streamlit Frontend
+streamlit>=1.30.0
+
+# Data Validation
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# PDF Processing
+PyMuPDF==1.23.8
+
+# LLM API Communication (via Gemini)
+google-generativeai>=0.3.2
+
+# Environment Configuration
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+
+# Code Quality
+black==23.12.0
+flake8==6.1.0
+mypy==1.7.1
+pylint==3.0.3
+
+# Development
+ipython==8.18.1
