@@ -13,7 +13,7 @@ class ResumeScreeningResponse(BaseModel):
     
     candidate_name: str = Field(..., description="Full name of the candidate")
     skills: List[str] = Field(default_factory=list, description="List of candidate skills")
-    experience_years: int = Field(..., ge=0, description="Total years of experience")
+    experience_years: float = Field(..., ge=0, description="Total years of experience")
     education: List[str] = Field(default_factory=list, description="Education background")
     projects: List[str] = Field(default_factory=list, description="Notable projects")
     summary: str = Field(..., description="Brief summary of the candidate")
