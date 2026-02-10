@@ -1,4 +1,3 @@
-````md
 # 🚀 Resume Screener API
 
 AI-powered resume screening backend built with **FastAPI + LLM APIs**, designed using **Clean Architecture** and **SOLID principles**.
@@ -128,4 +127,3 @@ Portfolio / Educational Use
 ---
 
 ⭐ Star if useful!
-````
