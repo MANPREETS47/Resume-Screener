@@ -4,7 +4,6 @@
 AI-powered resume screening backend built with **FastAPI + LLM APIs**, designed using **Clean Architecture** and **SOLID principles**.
 
 > Production-style backend project demonstrating scalable service design, dependency injection, and pluggable AI providers.
-
 ---
 
 ## ✨ Features
